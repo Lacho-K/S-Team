@@ -1,0 +1,24 @@
+Name: Dark Souls
+Genre: Action RPG
+Release date: September 22 2011
+Type: Not playable
+Info: Dark Souls is a 2011 action role-playing game developed by FromSoftware and published by Namco Bandai Games. A spiritual successor to FromSoftware's Demon's Souls, the game is the second installment in the Souls series. Dark Souls takes place in the fictional kingdom of Lordran, where players assume the role of a cursed undead character who begins a pilgrimage to discover the fate of their kind.
+Name: Borderlands 2
+Genre: FPS RPG
+Release date: September 18 2012
+Type: Playable
+Info: Borderlands 2 is a 2012 first-person shooter video game developed by Gearbox Software and published by 2K Games. Taking place five years following the events of Borderlands (2009), the game is once again set on the planet of Pandora. The story follows a new group of Vault Hunters who must ally with the Crimson Raiders, a resistance group made up of civilian survivors and guerrilla fighters, to defeat the tyrannical Handsome Jack before he can unlock the power of a new Vault.
+Location: E:\steam\steamapps\common\Borderlands 2\Binaries\Win32\Borderlands2.exe
+Name: Dark Souls 2
+Genre: Action RPG
+Release date: March 11 2014
+Type: Playable
+Info: Dark Souls II is an action role-playing game developed by FromSoftware and published by Bandai Namco Games. The third game in the Souls series, it was released for Microsoft Windows, PlayStation 3 and Xbox 360. Although both are set in the same universe, there is no overt story connection between the first Dark Souls and the sequel. The game uses dedicated multiplayer servers. Taking place in the kingdom of Drangleic, the game features both player versus environment (PvE) and player versus player (PvP) gameplay, in addition to having some co-op components. As in the earlier games in the series, it again features challenging gameplay, but with a more powerful graphics engine and more advanced artificial intelligence system.
+Location: C:\Program Files (x86)\Steam\steamapps\common\Dark Souls II\Game\DarkSoulsII.exe
+Name: Snake
+Genre: Video Game
+Release date: 1997
+Type: Playable
+Info: Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. The concept originated in the 1976 arcade game Blockade, and the ease of implementing Snake has led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms. After a variant was preloaded on Nokia mobile phones in 1998, there was a resurgence of interest in the snake concept as it found a larger audience. There are over 420 Snake-like games for iOS alone.
+Location: Snake\SnakeGame.exe
+

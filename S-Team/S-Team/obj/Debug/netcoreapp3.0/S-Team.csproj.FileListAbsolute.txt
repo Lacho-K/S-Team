@@ -1,0 +1,33 @@
+C:\Users\kolev\source\repos\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.exe
+C:\Users\kolev\source\repos\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.deps.json
+C:\Users\kolev\source\repos\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.runtimeconfig.json
+C:\Users\kolev\source\repos\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.dll
+C:\Users\kolev\source\repos\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.pdb
+C:\Users\kolev\source\repos\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.AssemblyInfo.cs
+C:\Users\kolev\source\repos\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.dll
+C:\Users\kolev\source\repos\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.pdb
+C:\Users\i7 boy\Downloads\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.exe
+C:\Users\i7 boy\Downloads\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.deps.json
+C:\Users\i7 boy\Downloads\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.runtimeconfig.json
+C:\Users\i7 boy\Downloads\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.runtimeconfig.dev.json
+C:\Users\i7 boy\Downloads\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.dll
+C:\Users\i7 boy\Downloads\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.pdb
+C:\Users\i7 boy\Downloads\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.csprojAssemblyReference.cache
+C:\Users\i7 boy\Downloads\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.AssemblyInfoInputs.cache
+C:\Users\i7 boy\Downloads\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.AssemblyInfo.cs
+C:\Users\i7 boy\Downloads\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.dll
+C:\Users\i7 boy\Downloads\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.pdb
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.exe
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.deps.json
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.runtimeconfig.json
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.dll
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\bin\Debug\netcoreapp3.0\S-Team.pdb
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.dll
+C:\Users\i7 boy\source\repos\S-Team-main\S-Team\S-Team\obj\Debug\netcoreapp3.0\S-Team.pdb
