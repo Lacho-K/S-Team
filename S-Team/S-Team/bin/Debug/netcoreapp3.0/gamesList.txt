@@ -1,0 +1,89 @@
+Name: Dark Souls
+Genre: Action RPG
+Release date: September 22 2011
+Type: Not playable
+Info: Dark Souls is a 2011 action role-playing game developed by FromSoftware and published by Namco Bandai Games. A spiritual successor to FromSoftware's Demon's Souls, the game is the second installment in the Souls series. Dark Souls takes place in the fictional kingdom of Lordran, where players assume the role of a cursed undead character who begins a pilgrimage to discover the fate of their kind.
+Name: Borderlands 2
+Genre: FPS RPG
+Release date: September 18 2012
+Type: Playable
+Info: Borderlands 2 is a 2012 first-person shooter video game developed by Gearbox Software and published by 2K Games. Taking place five years following the events of Borderlands (2009), the game is once again set on the planet of Pandora. The story follows a new group of Vault Hunters who must ally with the Crimson Raiders, a resistance group made up of civilian survivors and guerrilla fighters, to defeat the tyrannical Handsome Jack before he can unlock the power of a new Vault.
+Location: E:\steam\steamapps\common\Borderlands 2\Binaries\Win32\Borderlands2.exe
+Name: Dark Souls 2
+Genre: Action RPG
+Release date: March 11 2014
+Type: Playable
+Info: Dark Souls II is an action role-playing game developed by FromSoftware and published by Bandai Namco Games. The third game in the Souls series, it was released for Microsoft Windows, PlayStation 3 and Xbox 360. Although both are set in the same universe, there is no overt story connection between the first Dark Souls and the sequel. The game uses dedicated multiplayer servers. Taking place in the kingdom of Drangleic, the game features both player versus environment (PvE) and player versus player (PvP) gameplay, in addition to having some co-op components. As in the earlier games in the series, it again features challenging gameplay, but with a more powerful graphics engine and more advanced artificial intelligence system.
+Location: C:\Program Files (x86)\Steam\steamapps\common\Dark Souls II\Game\DarkSoulsII.exe
+Name: Snake
+Genre: Video Game
+Release date: 1997
+Type: Playable
+Info: Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. The concept originated in the 1976 arcade game Blockade, and the ease of implementing Snake has led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms. After a variant was preloaded on Nokia mobile phones in 1998, there was a resurgence of interest in the snake concept as it found a larger audience. There are over 420 Snake-like games for iOS alone.
+Location: Snake\SnakeGame.exe
+Name: Quake 2
+Genre: FPS
+Release date: December 1997
+Type: Not playable
+Info: Quake II is a first-person shooter video game released in December 1997. It was developed by id Software and published by Activision. It is not a direct sequel to Quake; id decided to revert to an existing trademark when the game's fast-paced, tactile feel felt closer to a Quake game than a new franchise. The game's storyline is continued in its expansions and Quake 4.
+Name: Half Life
+Genre: FPS
+Release date: 1998
+Type: Playable
+Info: Half-Life is a first-person shooter video game developed by Valve and published by Sierra Studios for Microsoft Windows in 1998. It was Valve's debut product and the first game in the Half-Life series.
+Location: C:\Program Files (x86)\Valve\Half-Life\hl.exe
+Name: Call of Duty 4: Modern Warfare
+Genre: FPS
+Release date: November 5 2007
+Type: Not playable
+Info: Call of Duty 4: Modern Warfare is a 2007 first-person shooter developed by Infinity Ward and published by Activision. It is the fourth main installment in the Call of Duty series. The game breaks away from the World War II setting of previous entries and is instead set in modern times.
+Name: Resident Evil 7: Biohazard
+Genre: Survival Horror
+Release date: January 24 2017
+Type: Not playable
+Info: Resident Evil 7: Biohazard is a 2017 survival horror game developed and published by Capcom. A major installment in the Resident Evil series, Resident Evil 7 diverges from the more action-oriented Resident Evil 5 and Resident Evil 6, returning to the franchise's survival horror roots, emphasizing exploration.
+Name: Dark Souls 3
+Genre: Action RPG
+Release date: March 24 2016
+Type: Playable
+Info: Dark Souls 3 is an action role-playing video game developed by FromSoftware and published by Bandai Namco Entertainment for PlayStation 4, Xbox One, and Microsoft Windows. The fourth installment of the Souls series and the final installment of the Dark Souls trilogy, the game was released in Japan in March 2016 and worldwide a month later.
+Location: E:\games\Dark Souls III\Game\DarkSoulsIII.exe
+Name: Cyberpunk 2077
+Genre: Action RPG FPS
+Release date: December 10 2020
+Type: Playable
+Info: Cyberpunk 2077 is a 2020 action role-playing video game developed and published by CD Projekt. The story takes place in Night City, an open world set in the Cyberpunk universe. Players assume the first-person perspective of a customisable mercenary known as V, who can acquire skills in hacking and machinery with options for melee and ranged combat.
+Location: C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\REDprelauncher.exe
+Name: Metal Gear Rising: Revengeance
+Genre: Action adventure hack and slash
+Release date: February 19 2013
+Type: Playable
+Info: Metal Gear Rising: Revengeance is a 2013 Action-adventure hack and slash video game developed by PlatinumGames and published by Konami Digital Entertainment. Released for the PlayStation 3 (PS3), Xbox 360 and Windows, it is a spin-off in the Metal Gear series, and is set four years after the events of Metal Gear Solid 4: Guns of the Patriots.
+Location: C:\Program Files (x86)\Steam\steamapps\common\METAL GEAR RISING REVENGEANCE\METAL GEAR RISING REVENGEANCE.exe
+Name: DOOM 64
+Genre: FPS
+Release date: March 31 1997
+Type: Playable
+Info: Doom 64 is a 1997 first-person shooter game developed and published by Midway Games for the Nintendo 64. It is a sequel to Doom II (1994). A remastered port was developed by Nightdive Studios and published by Bethesda Softworks and was released for Windows, Nintendo Switch, PlayStation 4, and Xbox One in March 2020, and on Stadia in May 2020.
+Location: E:\steam\steamapps\common\Doom 64\DOOM64_x64.exe
+Name: Half Life 2
+Genre: FPS
+Release date: November 16 2004
+Type: Not playable
+Info: Half-Life 2 is a 2004 first-person shooter game developed and published by Valve. Like the original Half-Life (1998), it combines shooting, puzzles, and storytelling, and adds features such as vehicles and physics-based gameplay. Players control Gordon Freeman, who fights the alien Combine with allies including resistance fighter Alyx Vance, using weapons such as the object-manipulating gravity gun.
+Name: Half Life 2: Lost Coast
+Genre: FPS
+Release date: June 28 2013
+Type: Playable
+Info: Half-Life 2: Lost Coast is an additional level for the 2004 first-person shooter video game Half-Life 2. Developed by Valve, it was released on October 27, 2005, through the Steam content delivery service as a free download to owners of the Windows version of Half-Life 2. Lost Coast serves as a technology demonstration, specifically showcasing the high-dynamic-range rendering implemented in the Source engine.
+Location: E:\steam\steamapps\common\Half-Life 2\hl2.exe
+Name: Destiny 2
+Genre: FPS RPG
+Release date: September 6 2017
+Type: Not playable
+Info: Destiny 2 (also known as Destiny 2: New Light) is a free-to-play online-only multiplayer first-person shooter video game developed by Bungie. It was originally released as a pay to play game in 2017 for the PlayStation 4, Xbox One, and Microsoft Windows platforms. It became free-to-play, utilizing the games as a service model, under the New Light title on October 1, 2019, followed by the game's release on Stadia the following month, and then the PlayStation 5 and Xbox Series X/S platforms in November 2020.
+Name: Borderlands 3
+Genre: Action RPG FPS
+Release date: 13 September 2019
+Type: Not playable
+Info: Borderlands 3 is an action role-playing first-person shooter video game developed by Gearbox Software and published by 2K Games. It is a sequel to 2012's Borderlands 2, and the fourth entry in the main Borderlands series. Borderlands 3 was released on 13 September 2019 for Microsoft Windows, PlayStation 4, Xbox One and on 30 October 2019 for Apple macOS. A Stadia port was released on 17 December 2019. Versions for the Xbox Series X and Series S and PlayStation 5 including free upgrades for users on the prior console versions were released on 10 and 12 November, respectively.
